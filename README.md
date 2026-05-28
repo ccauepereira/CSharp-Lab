@@ -1,49 +1,31 @@
-# Gerador de Recibos 🧾
+# CSharp-Lab 🧪
 
-Este repositório contém um sistema de console desenvolvido em **C#** que simula o fluxo de criação de pedidos e geração de recibos detalhados. O projeto foi estruturado utilizando os conceitos fundamentais da **Programação Orientada a Objetos (POO)** e boas práticas da plataforma .NET.
-
----
-
-## 📂 Estrutura do Projeto
-
-O código está organizado dentro da pasta principal do projeto:
-
-* **`GeradorDeRecibos/`**
-  * `Pedido.cs`: Gerencia as regras de negócio do pedido, valores, descontos anuláveis (`double?`) e cálculo dinâmico de datas com `DateTime` e `TimeSpan`.
-  * `Recibo.cs`: Responsável por formatar o layout do recibo de forma otimizada usando `StringBuilder`. Possui a classe interna `Saida` para rodar os testes.
-  * `DemoRecebu.cs`: O ponto de entrada (`Main`) do programa que inicializa a execução.
+Este repositório reúne um conjunto de exercícios práticos e programas de testes desenvolvidos em **C#** para explorar e consolidar os fundamentos da linguagem e da plataforma .NET.
 
 ---
 
-## 🛠️ Funcionalidades e Conceitos Aplicados
+## 📂 Estrutura do Repositório
 
-- **Encapsulamento:** Uso de propriedades (`get`/`set`) para proteger e expor os dados das classes.
-- **Tipos Anuláveis (Nullable):** Tratamento de campos opcionais (como o desconto) com o operador de coalescência nula (`??`).
-- **Manipulação de Datas:** Definição automática da data do pedido, cálculo automático de +7 dias para a entrega e contagem regressiva de dias restantes usando `TimeSpan`.
-- **Otimização de Strings:** Uso do `StringBuilder` para construir o layout do recibo no console sem desperdício de memória.
+O projeto está organizado na seguinte estrutura:
+
+* **`exercicios-basicos/`**
+  * `main.cs`: O ponto de entrada principal utilizado para rodar e alternar entre os testes.
+  * `fase1.cs`: Exercícios iniciais cobrindo lógica de programação, variáveis e estruturas de controle.
+  * `Dates.cs`: Práticas com as estruturas `DateTime` e `TimeSpan` (formatação e cálculos de intervalos).
+  * `Nullable.cs`: código explorando *Types Nullable* (`?`) e o operador de coalescência nula (`??`).
+  * `Sb.cs`: Testes de manipulação de strings utilizando a classe `StringBuilder`.
 
 ---
 
-## 💻 Exemplo de Saída no Console
+## 🚀 Tecnologias Utilizadas
 
-Ao rodar o sistema, os recibos são gerados com a seguinte formatação:
+- **Linguagem:** C# (.NET 10)
+- **IDE:** JetBrains Rider
 
-```text
-========================================
-Cliente: Maria Fernanda
-Data do pedido: 28/05/2026
-Previsão de entrega: quinta-feira, 4 de junho de 2026
-Dias restantes: 7
-Valor: 150
-Desconto: 25
-Valor final: 125
-========================================
-========================================
-Cliente: Cauê
-Data do pedido: 28/05/2026
-Previsão de entrega: quinta-feira, 4 de junho de 2026
-Dias restantes: 7
-Valor: 200
-Desconto: 0
-Valor final: 200
-========================================
+---
+
+## ⚙️ Como Rodar os Exercícios
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/ccauepereira/CSharp-Lab.git](https://github.com/ccauepereira/CSharp-Lab.git)
