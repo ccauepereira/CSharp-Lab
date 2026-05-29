@@ -1,0 +1,15 @@
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/bin/Debug/net10.0/10-Fibonacci
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/bin/Debug/net10.0/10-Fibonacci.deps.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/bin/Debug/net10.0/10-Fibonacci.runtimeconfig.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/bin/Debug/net10.0/10-Fibonacci.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/bin/Debug/net10.0/10-Fibonacci.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/obj/Debug/net10.0/10-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/obj/Debug/net10.0/10-Fibonacci.AssemblyInfoInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/obj/Debug/net10.0/10-Fibonacci.AssemblyInfo.cs
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/obj/Debug/net10.0/10-Fibonacci.csproj.CoreCompileInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/obj/Debug/net10.0/10-Fibonacci.sourcelink.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/obj/Debug/net10.0/10-Fibonacci.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/obj/Debug/net10.0/refint/10-Fibonacci.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/obj/Debug/net10.0/10-Fibonacci.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/obj/Debug/net10.0/10-Fibonacci.genruntimeconfig.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/10-Fibonacci/obj/Debug/net10.0/ref/10-Fibonacci.dll

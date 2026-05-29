@@ -1,0 +1,15 @@
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/bin/Debug/net10.0/12-Wumpus
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/bin/Debug/net10.0/12-Wumpus.deps.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/bin/Debug/net10.0/12-Wumpus.runtimeconfig.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/bin/Debug/net10.0/12-Wumpus.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/bin/Debug/net10.0/12-Wumpus.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/obj/Debug/net10.0/12-Wumpus.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/obj/Debug/net10.0/12-Wumpus.AssemblyInfoInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/obj/Debug/net10.0/12-Wumpus.AssemblyInfo.cs
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/obj/Debug/net10.0/12-Wumpus.csproj.CoreCompileInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/obj/Debug/net10.0/12-Wumpus.sourcelink.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/obj/Debug/net10.0/12-Wumpus.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/obj/Debug/net10.0/refint/12-Wumpus.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/obj/Debug/net10.0/12-Wumpus.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/obj/Debug/net10.0/12-Wumpus.genruntimeconfig.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/12-Wumpus/obj/Debug/net10.0/ref/12-Wumpus.dll

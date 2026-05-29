@@ -1,0 +1,15 @@
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/bin/Debug/net10.0/07-Calculadora
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/bin/Debug/net10.0/07-Calculadora.deps.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/bin/Debug/net10.0/07-Calculadora.runtimeconfig.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/bin/Debug/net10.0/07-Calculadora.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/bin/Debug/net10.0/07-Calculadora.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/obj/Debug/net10.0/07-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/obj/Debug/net10.0/07-Calculadora.AssemblyInfoInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/obj/Debug/net10.0/07-Calculadora.AssemblyInfo.cs
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/obj/Debug/net10.0/07-Calculadora.csproj.CoreCompileInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/obj/Debug/net10.0/07-Calculadora.sourcelink.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/obj/Debug/net10.0/07-Calculadora.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/obj/Debug/net10.0/refint/07-Calculadora.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/obj/Debug/net10.0/07-Calculadora.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/obj/Debug/net10.0/07-Calculadora.genruntimeconfig.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/07-Calculadora/obj/Debug/net10.0/ref/07-Calculadora.dll

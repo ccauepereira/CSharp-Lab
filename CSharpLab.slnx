@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/NDS/">
+    <Project Path="src/NDS/01-ParOuImpar/01-ParOuImpar.csproj" />
+    <Project Path="src/NDS/02-MaiorMenor/02-MaiorMenor.csproj" />
+    <Project Path="src/NDS/03-MaiorMenorN/03-MaiorMenorN.csproj" />
+    <Project Path="src/NDS/04-Media/04-Media.csproj" />
+    <Project Path="src/NDS/05-MediaN/05-MediaN.csproj" />
+    <Project Path="src/NDS/06-MediaPonderada/06-MediaPonderada.csproj" />
+    <Project Path="src/NDS/07-Calculadora/07-Calculadora.csproj" />
+    <Project Path="src/NDS/08-Strings/08-Strings.csproj" />
+    <Project Path="src/NDS/09-Tabuleiro/09-Tabuleiro.csproj" />
+    <Project Path="src/NDS/10-Fibonacci/10-Fibonacci.csproj" />
+    <Project Path="src/NDS/11-StructUsuario/11-StructUsuario.csproj" />
+    <Project Path="src/NDS/12-Wumpus/12-Wumpus.csproj" />
+    <Project Path="src/NDS/13-RPG/13-RPG.csproj" />
+  </Folder>
+</Solution>

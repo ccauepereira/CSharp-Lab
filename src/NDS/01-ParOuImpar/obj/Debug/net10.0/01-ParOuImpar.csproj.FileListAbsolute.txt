@@ -1,0 +1,15 @@
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/bin/Debug/net10.0/01-ParOuImpar
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/bin/Debug/net10.0/01-ParOuImpar.deps.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/bin/Debug/net10.0/01-ParOuImpar.runtimeconfig.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/bin/Debug/net10.0/01-ParOuImpar.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/bin/Debug/net10.0/01-ParOuImpar.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/obj/Debug/net10.0/01-ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/obj/Debug/net10.0/01-ParOuImpar.AssemblyInfoInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/obj/Debug/net10.0/01-ParOuImpar.AssemblyInfo.cs
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/obj/Debug/net10.0/01-ParOuImpar.csproj.CoreCompileInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/obj/Debug/net10.0/01-ParOuImpar.sourcelink.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/obj/Debug/net10.0/01-ParOuImpar.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/obj/Debug/net10.0/refint/01-ParOuImpar.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/obj/Debug/net10.0/01-ParOuImpar.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/obj/Debug/net10.0/01-ParOuImpar.genruntimeconfig.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/01-ParOuImpar/obj/Debug/net10.0/ref/01-ParOuImpar.dll

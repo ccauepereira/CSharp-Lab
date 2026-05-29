@@ -1,0 +1,15 @@
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/bin/Debug/net10.0/08-Strings
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/bin/Debug/net10.0/08-Strings.deps.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/bin/Debug/net10.0/08-Strings.runtimeconfig.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/bin/Debug/net10.0/08-Strings.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/bin/Debug/net10.0/08-Strings.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/obj/Debug/net10.0/08-Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/obj/Debug/net10.0/08-Strings.AssemblyInfoInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/obj/Debug/net10.0/08-Strings.AssemblyInfo.cs
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/obj/Debug/net10.0/08-Strings.csproj.CoreCompileInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/obj/Debug/net10.0/08-Strings.sourcelink.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/obj/Debug/net10.0/08-Strings.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/obj/Debug/net10.0/refint/08-Strings.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/obj/Debug/net10.0/08-Strings.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/obj/Debug/net10.0/08-Strings.genruntimeconfig.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/08-Strings/obj/Debug/net10.0/ref/08-Strings.dll

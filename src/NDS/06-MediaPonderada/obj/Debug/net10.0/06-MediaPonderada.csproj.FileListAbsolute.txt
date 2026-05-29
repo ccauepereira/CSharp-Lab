@@ -1,0 +1,15 @@
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/bin/Debug/net10.0/06-MediaPonderada
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/bin/Debug/net10.0/06-MediaPonderada.deps.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/bin/Debug/net10.0/06-MediaPonderada.runtimeconfig.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/bin/Debug/net10.0/06-MediaPonderada.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/bin/Debug/net10.0/06-MediaPonderada.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/obj/Debug/net10.0/06-MediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/obj/Debug/net10.0/06-MediaPonderada.AssemblyInfoInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/obj/Debug/net10.0/06-MediaPonderada.AssemblyInfo.cs
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/obj/Debug/net10.0/06-MediaPonderada.csproj.CoreCompileInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/obj/Debug/net10.0/06-MediaPonderada.sourcelink.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/obj/Debug/net10.0/06-MediaPonderada.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/obj/Debug/net10.0/refint/06-MediaPonderada.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/obj/Debug/net10.0/06-MediaPonderada.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/obj/Debug/net10.0/06-MediaPonderada.genruntimeconfig.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/06-MediaPonderada/obj/Debug/net10.0/ref/06-MediaPonderada.dll

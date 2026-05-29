@@ -1,0 +1,15 @@
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/bin/Debug/net10.0/02-MaiorMenor
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/bin/Debug/net10.0/02-MaiorMenor.deps.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/bin/Debug/net10.0/02-MaiorMenor.runtimeconfig.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/bin/Debug/net10.0/02-MaiorMenor.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/bin/Debug/net10.0/02-MaiorMenor.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/obj/Debug/net10.0/02-MaiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/obj/Debug/net10.0/02-MaiorMenor.AssemblyInfoInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/obj/Debug/net10.0/02-MaiorMenor.AssemblyInfo.cs
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/obj/Debug/net10.0/02-MaiorMenor.csproj.CoreCompileInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/obj/Debug/net10.0/02-MaiorMenor.sourcelink.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/obj/Debug/net10.0/02-MaiorMenor.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/obj/Debug/net10.0/refint/02-MaiorMenor.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/obj/Debug/net10.0/02-MaiorMenor.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/obj/Debug/net10.0/02-MaiorMenor.genruntimeconfig.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/02-MaiorMenor/obj/Debug/net10.0/ref/02-MaiorMenor.dll

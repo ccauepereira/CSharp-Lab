@@ -1,0 +1,15 @@
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/bin/Debug/net10.0/05-MediaN
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/bin/Debug/net10.0/05-MediaN.deps.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/bin/Debug/net10.0/05-MediaN.runtimeconfig.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/bin/Debug/net10.0/05-MediaN.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/bin/Debug/net10.0/05-MediaN.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/obj/Debug/net10.0/05-MediaN.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/obj/Debug/net10.0/05-MediaN.AssemblyInfoInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/obj/Debug/net10.0/05-MediaN.AssemblyInfo.cs
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/obj/Debug/net10.0/05-MediaN.csproj.CoreCompileInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/obj/Debug/net10.0/05-MediaN.sourcelink.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/obj/Debug/net10.0/05-MediaN.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/obj/Debug/net10.0/refint/05-MediaN.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/obj/Debug/net10.0/05-MediaN.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/obj/Debug/net10.0/05-MediaN.genruntimeconfig.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/05-MediaN/obj/Debug/net10.0/ref/05-MediaN.dll

@@ -1,0 +1,15 @@
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/bin/Debug/net10.0/13-RPG
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/bin/Debug/net10.0/13-RPG.deps.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/bin/Debug/net10.0/13-RPG.runtimeconfig.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/bin/Debug/net10.0/13-RPG.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/bin/Debug/net10.0/13-RPG.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/obj/Debug/net10.0/13-RPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/obj/Debug/net10.0/13-RPG.AssemblyInfoInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/obj/Debug/net10.0/13-RPG.AssemblyInfo.cs
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/obj/Debug/net10.0/13-RPG.csproj.CoreCompileInputs.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/obj/Debug/net10.0/13-RPG.sourcelink.json
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/obj/Debug/net10.0/13-RPG.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/obj/Debug/net10.0/refint/13-RPG.dll
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/obj/Debug/net10.0/13-RPG.pdb
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/obj/Debug/net10.0/13-RPG.genruntimeconfig.cache
+/home/cauepereira/projetos-nds/CSharp-Lab/src/NDS/13-RPG/obj/Debug/net10.0/ref/13-RPG.dll
